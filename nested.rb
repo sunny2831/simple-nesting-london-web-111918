@@ -94,7 +94,7 @@ def adding_matz
 									}
 end
 
-binding.binding.pry
+binding.pry
 
 def changing_alan
 	programmer_hash =
