@@ -20,6 +20,7 @@ def hopper
 
 end
 
+
 def alan_kay_is_known_for
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
 
@@ -92,6 +93,8 @@ def adding_matz
 										:languages => ["LISP", "C"]
 									}
 end
+
+binding.binding.pry
 
 def changing_alan
 	programmer_hash =
