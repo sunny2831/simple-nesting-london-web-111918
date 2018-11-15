@@ -1,4 +1,3 @@
-require 'pry'
 
 def hopper
 	programmer_hash =
@@ -95,7 +94,6 @@ def adding_matz
 	return programmer_hash
 end
 
-binding.pry
 
 def changing_alan
 	programmer_hash =
